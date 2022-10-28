@@ -1,0 +1,24 @@
+.navbar-brand
+{
+    font-size:30px !important;
+    font-weight: bold;
+    color: green;
+}
+
+.nav-item
+{
+    
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar a:hover
+{
+    color:#3498db ;
+}
+
+.menu_active
+{
+    font-weight: bold;
+   border-bottom: 1px #598759;
+}
